@@ -69,8 +69,21 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
