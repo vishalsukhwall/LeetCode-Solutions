@@ -50,6 +50,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
