@@ -40,6 +40,7 @@
 | [0036-valid-sudoku](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
