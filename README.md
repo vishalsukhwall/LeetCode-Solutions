@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
