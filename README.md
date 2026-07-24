@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -53,6 +54,7 @@
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
