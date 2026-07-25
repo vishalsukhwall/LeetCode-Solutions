@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
