@@ -5,6 +5,7 @@ public:
         int m = nums2.size();
 
         vector<int> ans;
+
         int i = 0 , j = 0;
 
         while(i < n && j < m){
@@ -20,27 +21,20 @@ public:
 
         while(i < n){
             ans.push_back(nums1[i]);
-            i++;
+            i++; 
         }
         while(j < m){
             ans.push_back(nums2[j]);
-            j++;
+            j++; 
         }
-        
-        int sum = 0;
-        for(int i=0; i<ans.size(); i++){
-            sum += ans[i];
-        }
-        double mid = 0;
 
-        if(ans.size() % 2 == 0){
-            return mid = (ans[ans.size()/2-1]  + ans[ans.size()/2])/2.0;
+        int total = m + n;
+
+        if(total % 2 != 0){
+            return ans[total/2];
         }
         else{
-            int st = 0, end = ans.size()-1;
-            int midd = st + (end - st)/2;
-            mid = ans[midd];
-            return mid;
-        } 
+            return (ans[total/2-1] + ans[total/2]) / 2.0;
+        }
     }
 };
