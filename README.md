@@ -14,6 +14,7 @@
 | [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
