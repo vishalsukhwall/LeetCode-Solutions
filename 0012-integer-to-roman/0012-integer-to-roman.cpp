@@ -11,8 +11,9 @@ public:
             }
             
             int time = num / val[i];
-            while(time--){
+            while(time > 0){
                 ans += sym[i];
+                time--;
             }
 
             num = num % val[i];
