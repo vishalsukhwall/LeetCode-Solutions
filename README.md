@@ -13,6 +13,7 @@
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -66,6 +67,7 @@
 | [0013-roman-to-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -175,6 +178,7 @@
 | [0014-longest-common-prefix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0344-reverse-string) |
