@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0486-predict-the-winner](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
