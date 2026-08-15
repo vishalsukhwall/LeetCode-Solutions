@@ -13,15 +13,15 @@ public:
             }
         }
 
-            if(allzero){
-                return 0;
-            }
+        if(allzero){
+            return 0;
+        }
 
-            if(result != 0){
-                return n;
-            }
-            else{
-                return n-1;
+        if(result != 0){
+            return n;
+        }
+        else{
+            return n-1;
         }
     }
 };
