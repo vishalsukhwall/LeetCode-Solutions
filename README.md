@@ -35,6 +35,7 @@
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -197,6 +198,7 @@
 | [0078-subsets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
 | ------- |
