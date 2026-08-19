@@ -83,6 +83,7 @@
 | [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -200,6 +201,7 @@
 | [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
@@ -272,4 +275,8 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
