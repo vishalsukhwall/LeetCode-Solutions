@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -98,6 +99,7 @@
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Two Pointers
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
