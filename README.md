@@ -37,6 +37,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +133,7 @@
 | [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
