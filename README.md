@@ -49,6 +49,7 @@
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -177,6 +178,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
 | ------- |
