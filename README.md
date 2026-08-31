@@ -131,6 +131,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -233,6 +234,7 @@
 | [0125-valid-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
