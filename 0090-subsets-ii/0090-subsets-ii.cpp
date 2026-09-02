@@ -1,33 +1,33 @@
 class Solution {
 public:
-    set<vector<int>> s;
-    void helper(vector<int>& nums , int idx , vector<int>& arr, vector<vector<int>>& ans){
+    void helper(vector<int>& nums , int idx , vector<int>& ans , vector<vector<int>>& result){
         int n = nums.size();
+
         if(idx == n){
-            if(s.find(arr) == s.end()){
-                ans.push_back(arr);
-                s.insert(arr);
-            }
+            result.push_back(ans);
             return;
         }
 
-        arr.push_back(nums[idx]);
+        ans.push_back(nums[idx]);
+        helper(nums, idx+1 , ans , result);
 
-        helper(nums, idx+1 , arr , ans);
-
-        arr.pop_back();
-
-        helper(nums, idx+1 , arr , ans);
+        ans.pop_back();
+        
+        int i = idx + 1;
+        while(i < n && nums[i] == nums[idx]){
+            i++;
+        }
+        helper(nums, i , ans , result);
     }
 
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        vector<int> ans;
+        vector<vector<int>> result;
+
         sort(nums.begin() , nums.end());
 
-        vector<int> arr;
-        vector<vector<int>> ans;
-
-        helper(nums, 0 , arr , ans);
-
-        return ans;
+        helper(nums , 0 , ans , result);
+        
+        return result;
     }
 };
