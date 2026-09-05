@@ -59,6 +59,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,6 +318,7 @@
 | [0525-contiguous-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
 |  |
 | ------- |
