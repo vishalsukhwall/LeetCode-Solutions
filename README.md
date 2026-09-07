@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -94,6 +95,7 @@
 | [0013-roman-to-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
