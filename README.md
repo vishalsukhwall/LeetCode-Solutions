@@ -141,6 +141,7 @@
 | [0344-reverse-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0118-pascals-triangle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -250,6 +252,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
