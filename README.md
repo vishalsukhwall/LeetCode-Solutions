@@ -30,6 +30,7 @@
 | [0134-gas-station](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -67,6 +68,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
