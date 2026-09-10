@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0035-search-insert-position) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -148,6 +150,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0056-merge-intervals) |
