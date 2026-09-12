@@ -8,9 +8,9 @@ public:
             sum += num;
         }     
 
-        if(sum % k == 0){
-            return 0;
-        }
+        // if(sum % k == 0){
+        //     return 0;
+        // }
 
         int rem = 0;
         rem = sum % k;
