@@ -272,6 +272,7 @@
 | [0409-longest-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
