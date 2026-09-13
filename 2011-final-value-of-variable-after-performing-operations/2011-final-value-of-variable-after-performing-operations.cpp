@@ -6,10 +6,10 @@ public:
         int x = 0;
         for(int i=0; i<n; i++){
             if(nums[i] == "++X" || nums[i] == "X++"){
-                x++;
+                x += 1;
             }
             else{
-                x--;
+                x -= 1;
             }
         }
 
