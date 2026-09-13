@@ -2,14 +2,14 @@ class Solution {
 public:
     int maxDistinct(string s) {
         int n = s.size();
-        unordered_set<char> s1;
+        unordered_map<char , int> mp;
 
         int count = 0;
         for(int i=0; i<n; i++){
-            if(s1.find(s[i]) == s1.end()){
+            if(mp.find(s[i]) == mp.end()){
                 count++;
             }
-            s1.insert(s[i]);
+            mp[s[i]] = i;
         }
 
         return count;
