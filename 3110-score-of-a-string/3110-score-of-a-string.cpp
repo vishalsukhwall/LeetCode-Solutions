@@ -9,6 +9,7 @@ public:
             totalSum += abs(s[i] - s[i+1]);
             i++;
         }
+
         return totalSum;
     }
 };
