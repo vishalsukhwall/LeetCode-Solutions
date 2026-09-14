@@ -4,10 +4,8 @@ public:
         int n = s.size();
 
         int totalSum = 0;
-        int i = 0;
-        while(i+1 < n){
+        for(int i=0; i<n-1; i++){
             totalSum += abs(s[i] - s[i+1]);
-            i++;
         }
 
         return totalSum;
