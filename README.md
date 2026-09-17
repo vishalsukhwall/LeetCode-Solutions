@@ -379,4 +379,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
