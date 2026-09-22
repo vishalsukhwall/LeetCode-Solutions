@@ -31,6 +31,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
