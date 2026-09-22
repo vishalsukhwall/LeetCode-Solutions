@@ -36,6 +36,7 @@
 | [0162-find-peak-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -160,6 +161,7 @@
 | [0141-linked-list-cycle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -251,6 +253,7 @@
 | [0013-roman-to-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
