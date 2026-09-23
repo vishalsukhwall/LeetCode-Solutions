@@ -2,9 +2,8 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
         int n = nums.size();
-        int totalSum = accumulate(nums.begin() , nums.end() , 0);
-
-        int target = totalSum - x;
+        int totalsum = accumulate(nums.begin() , nums.end() , 0);
+        int target = totalsum - x;
 
         int left = 0 , longest = -1;
         int sum = 0;
@@ -17,10 +16,48 @@ public:
             }
 
             if(sum == target){
-                longest = max(longest , right - left + 1);
+                longest = max(longest , right - left +1);
             }
         }
 
         return longest == -1 ? -1 : n - longest;
+
+        // int n = nums.size();
+
+        // unordered_map<int , int> mp;
+        // mp[0] = 0;
+
+        // int sum = 0;
+        // for(int i=0; i<n; i++){
+        //     sum += nums[i];
+
+        //     if(sum > x){
+        //         break;
+        //     }
+        //     mp[sum] = i+1;
+        // }
+
+        // int minnum = INT_MAX;
+
+        // if(mp.count(x)) minnum = mp[x];
+        // int rightsum = 0;
+
+        // for(int i = n-1; i >= 0; i--){
+        //     rightsum += nums[i];
+
+        //     if(rightsum > x) break;
+
+        //     int target = x - rightsum;
+
+        //     int right = n - 1;
+            
+        //     if(mp.count(target)){
+
+        //     int left = mp[target];
+        //         minnum = min(minnum , left + right);
+        //     }
+        // }
+
+        // return minnum;
     }
 };
