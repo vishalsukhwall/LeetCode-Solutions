@@ -18,11 +18,11 @@ public:
         if(!mp.count(val)){
             return false;
         }
-        int delidx = mp[val];
-        int lastval = nums.back();
+        int idx = mp[val];
+        int last = nums.back();
 
-        nums[delidx] = lastval;
-        mp[lastval] = delidx;
+        nums[idx] = last;
+        mp[last] = idx;
 
         nums.pop_back();
         mp.erase(val);
