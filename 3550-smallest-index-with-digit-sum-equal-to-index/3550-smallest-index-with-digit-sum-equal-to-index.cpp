@@ -2,8 +2,7 @@ class Solution {
 public:
     int smallestIndex(vector<int>& nums) {
         int n = nums.size();
-
-        int ans = 0;
+        vector<int> ans;
         for(int i = 0; i < n; i++){
             int num = nums[i];
             int temp = 0;
@@ -15,10 +14,14 @@ public:
             }
 
             if(temp == i){
-                ans = temp;
-                return ans; 
+                ans.push_back(i);
             }
         }
-        return -1;
+        if(ans.empty()){
+            return -1;
+        }
+        else{
+            return ans[0];
+        }
     }
 };
