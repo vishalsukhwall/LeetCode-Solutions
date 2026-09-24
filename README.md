@@ -51,6 +51,7 @@
 | [0274-h-index](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -132,6 +133,7 @@
 | [0242-valid-anagram](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
@@ -273,6 +275,7 @@
 | [0189-rotate-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -380,6 +383,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -442,4 +446,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
