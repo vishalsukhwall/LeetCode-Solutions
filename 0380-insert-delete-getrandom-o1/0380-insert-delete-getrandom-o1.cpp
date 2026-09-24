@@ -6,30 +6,27 @@ public:
     }
     
     bool insert(int val) {
-        if(mp.find(val) == mp.end()){
-            nums.push_back(val);
-            mp[val] = nums.size()-1;
-
-            return true;
+        if(mp.count(val)){
+            return false;
         }
-        return false;
+        mp[val] = nums.size();
+        nums.push_back(val);
+        return true;
     }
     
     bool remove(int val) {
-        if(mp.find(val) != mp.end()){
-
-            int idx = mp[val];
-            int last = nums.back();
-
-            nums[idx] = last;
-            mp[last] = idx;
-
-            nums.pop_back();
-            mp.erase(val);
-
-            return true;
+        if(!mp.count(val)){
+            return false;
         }
-        return false;
+        int delidx = mp[val];
+        int lastval = nums.back();
+
+        nums[delidx] = lastval;
+        mp[lastval] = delidx;
+
+        nums.pop_back();
+        mp.erase(val);
+        return true;
     }
     
     int getRandom() {
