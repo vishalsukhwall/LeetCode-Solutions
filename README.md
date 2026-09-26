@@ -30,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -227,6 +228,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0392-is-subsequence) |
