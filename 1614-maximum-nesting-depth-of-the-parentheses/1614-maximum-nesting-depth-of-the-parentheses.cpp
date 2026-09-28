@@ -9,15 +9,15 @@ public:
 
         for(int i=0; i<n; i++){
             if(s[i] == '('){
-                count++;
-                maxcount = max(maxcount , count);
+                st.push(s[i]);
+                maxcount = max(maxcount , (int)st.size());
             }
-
             else if(s[i] == ')'){
-                    count--;
+                if(!st.empty()){
+                    st.pop();
                 }
             }
-        
+        }
         return maxcount;
     }
 };
