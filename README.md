@@ -326,6 +326,7 @@
 | [0409-longest-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
@@ -352,6 +353,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -471,6 +473,7 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
