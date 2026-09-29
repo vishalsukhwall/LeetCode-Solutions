@@ -509,4 +509,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
