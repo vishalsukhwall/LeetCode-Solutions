@@ -7,8 +7,10 @@ public:
         reverse(matrix.begin() , matrix.end());
         
         for(int i=0; i<row; i++){
-            for(int j=i+1; j<col; j++){
-                swap(matrix[i][j] , matrix[j][i]);
+            for(int j=0; j<col; j++){
+                if(i < j){
+                    swap(matrix[i][j] , matrix[j][i]);
+                }
             }
         }
     }
