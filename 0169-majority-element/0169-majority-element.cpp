@@ -3,32 +3,33 @@ public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
 
-        int ans = 0;
-        int freq = 0;
-        for(int i=0; i<n; i++){
-            if(freq == 0){
-                ans = nums[i];
-            }
+        int num = nums[0];
+        int count = 0;
 
-            if(ans == nums[i]){
-                freq++;
+        for(int i=0; i<n; i++){
+            if(count == 0){
+                num = nums[i];
+                count = 1;
+            }
+            else if(num == nums[i]){
+                count++;
             }
             else{
-                freq--;
+                count--;
+                }
+            }
+        
+
+        int ans = 0;
+        for(int val : nums){
+            if(num == val){
+                ans++;
             }
         }
 
-        int count = 0;
-        for(int i=0; i<n; i++){
-            nums[i] == ans;
-            count++;
+        if(ans > n/2){
+            return num;
         }
-
-        if(count > n/2){
-            return ans;
-        }
-        else{
-            return -1;
-        }
+        return -1;
     }
 };
