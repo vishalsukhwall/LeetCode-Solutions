@@ -6,7 +6,7 @@ public:
         vector<int> ans;
 
         if(s.size() < p.size()){
-            return ans;
+            return {};
         }
 
         for(int i=0; i<p.size(); i++){
@@ -24,10 +24,9 @@ public:
             wind[s[i-p.size()] - 'a']--;
 
             if(wind == targ){
-                ans.push_back(i-p.size()+1);
+                ans.push_back(i - p.size() + 1);
             }
         }
-        
         return ans;
     }
 };
