@@ -14,14 +14,15 @@ public:
                 int targ = len * wid;
 
                 if(targ == area){
-                    if(minar > abs(len - wid)){
-                        ans.clear();
+                    if(len >= wid){
+                        if(minar > abs(len - wid)){
+                            ans.clear();
 
-                        ans.push_back(len);
-                        ans.push_back(wid);
-                        minar = abs(len - wid);
-                    
-                    }
+                            ans.push_back(len);
+                            ans.push_back(wid);
+                            minar = abs(len - wid);
+                        }
+                    }  
                 }
             }
         }
