@@ -62,6 +62,7 @@
 | [0486-predict-the-winner](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -155,6 +156,7 @@
 | [0525-contiguous-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -219,6 +221,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -383,6 +386,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2090-k-radius-subarray-averages](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
@@ -393,6 +397,7 @@
 | [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
