@@ -66,6 +66,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -104,6 +105,7 @@
 | [0268-missing-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
@@ -204,6 +206,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | [0414-third-maximum-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -389,6 +393,7 @@
 | [0567-permutation-in-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2090-k-radius-subarray-averages](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -528,4 +533,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
