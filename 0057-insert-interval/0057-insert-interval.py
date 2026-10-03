@@ -1,22 +1,22 @@
 class Solution:
-    def insert(self, nums: list[list[int]], add: list[int]) -> list[list[int]]:
+    def insert(self, intervals: list[list[int]], newInterval: list[int]) -> list[list[int]]:
 
         res = []
-        n = len(nums)
+        n = len(intervals)
         i = 0
 
-        while i < n and nums[i][1] < add[0]:
-            res.append(nums[i])
+        while i < n and intervals[i][1] < newInterval[0]:
+            res.append(intervals[i])
             i += 1
 
-        while i < n and nums[i][0] <= add[1]:
-            add[0] = min(nums[i][0] , add[0])
-            add[1] = max(nums[i][1] , add[1])
+        while i < n and newInterval[1] >= intervals[i][0]:
+            newInterval[0] = min(newInterval[0] , intervals[i][0])    
+            newInterval[1] = max(newInterval[1] , intervals[i][1])
             i += 1
-        res.append(add)
+        res.append(newInterval)     
 
         while i < n:
-            res.append(nums[i])
+            res.append(intervals[i])
             i += 1
 
         return res
