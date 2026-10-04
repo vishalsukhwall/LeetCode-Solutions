@@ -56,6 +56,7 @@
 | [0274-h-index](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -128,6 +129,7 @@
 | [0059-spiral-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Hash Table
@@ -283,6 +285,7 @@
 | [0054-spiral-matrix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
