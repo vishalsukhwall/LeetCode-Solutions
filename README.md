@@ -78,6 +78,7 @@
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
