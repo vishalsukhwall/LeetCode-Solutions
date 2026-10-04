@@ -2,13 +2,13 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int n = nums.size();
-        int breaks = 0;
-
+        int count = 0;
+        
         for(int i=0; i<n; i++){
             if(nums[i] > nums[(i+1) % n]){
-                breaks++;
+                count++;
             }
         }
-        return breaks <= 1;
+        return count <= 1;
     }
 };
