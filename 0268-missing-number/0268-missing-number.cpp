@@ -2,11 +2,13 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        int missing_number = n;
+        sort(nums.begin() , nums.end());
 
         for(int i=0; i<n; i++){
-            missing_number = missing_number ^ i ^ nums[i];
+            if(nums[i] != i){
+                return i;
+            }
         }
-        return missing_number;
+        return n;
     }
 };
