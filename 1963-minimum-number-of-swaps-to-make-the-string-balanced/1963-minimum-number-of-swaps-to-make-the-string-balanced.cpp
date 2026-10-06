@@ -2,22 +2,24 @@ class Solution {
 public:
     int minSwaps(string s) {
         int n = s.size();
+        int close = 0;
         stack<char> st;
 
-        int unbalanced = 0;
-        for(int i=0; i<n; i++){
-            if(s[i] == '['){
-                st.push(s[i]);
+        for(char ch : s){
+            if(ch == '['){
+
+                st.push(ch);
             }
             else{
                 if(!st.empty()){
                     st.pop();
                 }
                 else{
-                    unbalanced++;
+                    close++;
                 }
             }
         }
-        return (unbalanced + 1)/2;
+
+        return (close + 1) / 2;
     }
 };
