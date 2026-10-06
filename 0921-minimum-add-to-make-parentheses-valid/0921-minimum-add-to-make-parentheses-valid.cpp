@@ -3,24 +3,22 @@ public:
     int minAddToMakeValid(string s) {
         int n = s.size();
 
-        stack<int> st;
-        int current = 0;
+        int open = 0;
+        int add = 0;
 
         for(int i=0; i<n; i++){
             if(s[i] == '('){
-                st.push(0);
-                current++;
+                open++;
             }
             else{
-                if(!st.empty()){
-                    st.pop();
-                    current--;
+                if(open > 0){
+                    open--;
                 }
                 else{
-                    current++;
+                    add++;
                 }
             }
         }
-        return current;
+        return add+open;
     }
 };
