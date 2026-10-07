@@ -7,29 +7,20 @@ public:
         int count = 0;
 
         for(int i=0; i<n; i++){
-            if(count == 0){
-                num = nums[i];
-                count = 1;
-            }
-            else if(num == nums[i]){
+            if(nums[i] == num){
                 count++;
             }
             else{
-                count--;
+                if(count <= 0){
+                    num = nums[i];
+                    count++;
+                }
+                else{
+                    count--;
                 }
             }
-        
-
-        int ans = 0;
-        for(int val : nums){
-            if(num == val){
-                ans++;
-            }
         }
 
-        if(ans > n/2){
-            return num;
-        }
-        return -1;
+        return num;
     }
 };
