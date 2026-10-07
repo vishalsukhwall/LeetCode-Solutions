@@ -3,20 +3,20 @@ public:
     void sortColors(vector<int>& nums) {
         int n = nums.size();
 
-        int low = 0 , mid = 0;
+        int low = 0 , mid = n-1;
         int high = n-1;
 
-        while(mid <= high){
-            if(nums[mid] == 0){
-                swap(nums[low] , nums[mid]);
-                mid++ , low++;
+        while(mid >= low){
+            if(nums[mid] == 2){
+                swap(nums[high] , nums[mid]);
+                mid-- , high--;
             }
             else if(nums[mid] == 1){
-                mid++;
+                mid--;
             }
             else{
-                swap(nums[mid] , nums[high]);
-                high--;
+                swap(nums[mid] , nums[low]);
+                low++;
             }
         }
     }
