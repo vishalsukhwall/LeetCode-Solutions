@@ -11,7 +11,7 @@ public:
                 count++;
             }
             else{
-                if(count <= 0){
+                if(count == 0){
                     num = nums[i];
                     count++;
                 }
@@ -20,7 +20,6 @@ public:
                 }
             }
         }
-
         return num;
     }
 };
