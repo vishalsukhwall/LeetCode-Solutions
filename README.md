@@ -370,6 +370,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0856-score-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -403,6 +404,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -535,6 +537,7 @@
 | [0020-valid-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
