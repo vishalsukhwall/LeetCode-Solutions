@@ -4,7 +4,9 @@ public:
         int n = nums.size();
         vector<int> ans(n, 0);
         
-        int i = 0 , j = 1;
+        int i = 0;
+        int j = 1;
+        
         for(int val : nums){
             if(val > 0){
                 ans[i] = val;
