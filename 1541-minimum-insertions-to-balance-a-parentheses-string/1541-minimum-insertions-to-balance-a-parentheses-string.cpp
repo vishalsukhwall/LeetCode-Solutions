@@ -25,6 +25,6 @@ public:
                 }
             }
         }
-       return ans + open*2; 
+       return ans+2*open; 
     }
 };
