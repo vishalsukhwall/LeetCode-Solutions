@@ -2,24 +2,22 @@ class Solution {
 public:
     vector<int> findDegrees(vector<vector<int>>& mat) {
         int row = mat.size();
-        // int col = mat[0].size();
+        int col = mat[0].size();
 
-        vector<int> ans(row);
+        vector<int> ans;
 
         for(int i=0; i<row; i++){
-            ans[i] = count(mat[i].begin() , mat[i].end() , 1);
-
-            // int count = 0;
+            int count = 0;
         
-            // for(int j=0; j<col; j++){
+            for(int j=0; j<col; j++){
                 
-            //     if(mat[i][j] == 1){
-            //         count++;
-            //     }
+                if(mat[i][j] == 1){
+                    count++;
+                }
 
-            // }
+            }
 
-            // ans.push_back(count);
+            ans.push_back(count);
         }
 
         return ans;
