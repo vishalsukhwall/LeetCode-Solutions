@@ -1,25 +1,13 @@
 class Solution {
 public:
-    vector<int> findDegrees(vector<vector<int>>& mat) {
-        int row = mat.size();
-        int col = mat[0].size();
-
-        vector<int> ans;
-
-        for(int i=0; i<row; i++){
-            int count = 0;
+    vector<int> findDegrees(vector<vector<int>>& matrix) {
+        int n = matrix.size();
+        vector<int> ans(n);
         
-            for(int j=0; j<col; j++){
-                
-                if(mat[i][j] == 1){
-                    count++;
-                }
-
-            }
-
-            ans.push_back(count);
+        for (int i = 0; i < n; i++) {
+            ans[i] = std::count(matrix[i].begin(), matrix[i].end(), 1);
         }
-
+        
         return ans;
     }
 };
