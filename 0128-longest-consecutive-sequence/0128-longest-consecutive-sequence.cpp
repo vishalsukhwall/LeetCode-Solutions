@@ -9,21 +9,22 @@ public:
         }
 
         int maxlen = 0;
-        for(int num : s){
+
+        for(int val : s){
             int currnum , len;
 
-            if(s.find(num-1) == s.end()){
-                currnum = num;
+            if(s.find(val-1) == s.end()){
+                currnum = val;
                 len = 1;
-            }
 
             while(s.find(currnum + 1) != s.end()){
-                currnum++;
-                len++;
+                len++ , currnum++;
             }
 
-           maxlen = max(len , maxlen);
+            maxlen = max(maxlen , len);
+            }
         }
+
         return maxlen;
     }
 };
