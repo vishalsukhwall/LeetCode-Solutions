@@ -15,8 +15,7 @@ public:
             int sum = 0;
 
             for(int j=0; j<s.size(); j++){
-                int x = s[j] -'a';
-                sum += weights[x];
+                sum += weights[s[j] -'a'];
             }
             sum = sum % 26;
             
