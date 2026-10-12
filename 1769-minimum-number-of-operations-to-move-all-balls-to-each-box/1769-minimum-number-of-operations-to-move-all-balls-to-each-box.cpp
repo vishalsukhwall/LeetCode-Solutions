@@ -4,18 +4,18 @@ public:
         int n = s.size();
         vector<int> ans(n , 0);
 
-        if(n == 1){
-            return ans;
+        int balls = 0 , move = 0;
+        for(int i=0; i<n; i++){
+            ans[i] += move;
+            balls += s[i] - '0';
+            move += balls;
         }
 
-        for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
-
-                if(s[j] == '1'){
-                    ans[i] += abs(i - j);
-                }
-
-            }
+        balls = 0 , move = 0;
+        for(int i=n-1; i>=0; i--){
+            ans[i] += move;
+            balls += s[i] - '0';
+            move += balls;
         }
 
         return ans;
