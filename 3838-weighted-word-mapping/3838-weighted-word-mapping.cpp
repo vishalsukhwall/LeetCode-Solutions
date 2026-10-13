@@ -15,10 +15,10 @@ public:
             int sum = 0;
 
             for(int j=0; j<s.size(); j++){
-                sum += weights[s[j] -'a'];
+                sum += weights[s[j] - 'a'];
+                sum = sum % 26;
             }
-            sum = sum % 26;
-            
+
             ans += alpha[sum];
         }
 
