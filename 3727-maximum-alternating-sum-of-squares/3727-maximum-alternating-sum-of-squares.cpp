@@ -1,24 +1,29 @@
 class Solution {
 public:
     long long maxAlternatingSum(vector<int>& nums) {
-        for(auto &it: nums){
-            if(it < 0){
-                it = -it;
+        int n = nums.size();
+        
+        // Sabhi numbers ko positive bana kar sort karte hain taaki magnitude ke hisaab se arrange ho sakein
+        for(int i = 0; i < n; i++) {
+            nums[i] = abs(nums[i]);
+        }
+        sort(nums.begin(), nums.end());
+        
+        int k = ceil(n / 2.0);
+
+        long long positiveSum = 0, negativeSum = 0;
+        
+        for(int i = 0; i < n; i++){
+            long long square = (long long)nums[i] * nums[i];
+
+            if(i < n - k){
+                negativeSum += square;
+            }
+            else{
+                positiveSum += square;
             }
         }
-        int n = nums.size();
-        sort(nums.begin() , nums.end());
-        int low = 0,high = n-1;
 
-        long long sol = 0;
-        while(low < high){
-            sol = sol + (1ll * nums[high] * nums[high]) - (1ll * nums[low] * nums[low]);
-            low++;
-            high--;
-        }
-        if(low == high){
-            sol = sol + (1ll * nums[low] * nums[low]);
-        }
-        return sol;
+        return positiveSum - negativeSum;
     }
 };
