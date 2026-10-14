@@ -4,16 +4,12 @@ public:
         int n = nums.size();
         int sum = 0;
 
-        bool ispos = true;
-
         for(int i=0; i<n; i++){
-            if(ispos){
+            if(i % 2 == 0){
                 sum += nums[i];
-                ispos = !ispos;
             }
             else{
                 sum -= nums[i];
-                ispos = !ispos;
             }
         }
 
