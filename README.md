@@ -83,6 +83,7 @@
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -192,6 +193,7 @@
 | [0645-set-mismatch](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -367,6 +369,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -479,6 +482,7 @@
 | [0274-h-index](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
