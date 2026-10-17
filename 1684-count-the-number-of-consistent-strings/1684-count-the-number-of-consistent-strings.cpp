@@ -1,25 +1,24 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        int n = words.size();
-        unordered_map<char , int> mp;
-        vector<bool> res(n , true);
+        vector<int> allowedchar(26 , false);
         int count = 0;
 
         for(char val : allowed){
-            mp[val]++;
+            allowedchar[val - 'a'] = true;
         }
 
-        for(int i=0; i<n; i++){
-            string s = words[i];
+        for(string word : words){
+            bool valid = true;
 
-            for(int j=0; j<s.size(); j++){
-                if(mp.count(s[j]) == 0){
-                    res[i] = false;
+            for(char ch : word){
+                if(!allowedchar[ch - 'a']){
+                    valid = false;
+                    break;
                 }
             }
 
-            if(res[i]){
+            if(valid){
                 count++;
             }
         }
