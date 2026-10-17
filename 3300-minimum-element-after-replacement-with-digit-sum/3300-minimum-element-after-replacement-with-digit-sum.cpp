@@ -16,16 +16,12 @@ public:
     int minElement(vector<int>& nums) {
         int n = nums.size();
 
+        int minval = INT_MAX;
+        
         for(int i=0; i<n; i++){
             int val = valsum(nums[i]);
 
-            nums[i] = val;
-        }
-
-        int minval = INT_MAX;
-
-        for(int value : nums){
-            minval = min(minval , value);
+            minval = min(minval , val);
         }
 
         return minval;
