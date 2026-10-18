@@ -1,12 +1,11 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& nums) {
-       int n = nums.size();
-       vector<vector<int>> ans;
+        int n = nums.size();
+        sort(nums.begin() , nums.end());
+        vector<vector<int>> ans;
 
-       sort(nums.begin() , nums.end());
-
-       for(int i=0; i<n; i++){
+        for(int i=0; i<n; i++){
             int start = nums[i][0];
             int end = nums[i][1];
 
@@ -20,8 +19,8 @@ public:
                 j++;
             }
             ans.push_back({start , end});
-            i = j - 1;
-       }
-       return ans;
+            i = j-1;
+        }
+        return ans;
     }
 };
