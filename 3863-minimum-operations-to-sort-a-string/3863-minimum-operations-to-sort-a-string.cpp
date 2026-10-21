@@ -12,9 +12,9 @@ public:
         }
 
         char mn = 'z' , mx = 'a';
-        for(int i=0; i<n; i++){
-            mn = min(mn , s[i]);
-            mx = max(mx , s[i]);
+        for(char val : s){
+            mx = max(mx , val);
+            mn = min(mn , val);
         }
 
         if(s[0] == mn || s[n-1] == mx){
