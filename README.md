@@ -119,6 +119,7 @@
 | [3838-weighted-word-mapping](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3895-count-digit-appearances](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -401,6 +402,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3895-count-digit-appearances](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
