@@ -1,22 +1,21 @@
 class Solution {
 public:
     bool isStrictlyPalindromic(int numb) {
-        string num = "";
-
         for(int i=2; i<=numb-2; i++){
-            int n = numb;
-            while(n > 0){
-                int dig = n % i;
+            int temp = numb;
+            string s = "";
 
-                num += to_string(dig);
+            while(temp > 0){
+                int dig = temp % i;
 
-                n = n / i;
+                s += to_string(dig);
+
+                temp = temp / i;
             }
+            string rev = s;
+            reverse(rev.begin() , rev.end());
 
-            string s = num;
-            reverse(s.begin() , s.end());
-
-            if(s != num){
+            if(s != rev){
                 return false;
             }
         }
