@@ -70,6 +70,7 @@
 | [0486-predict-the-winner](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -281,6 +282,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -330,6 +332,7 @@
 | [0135-candy](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -514,6 +517,7 @@
 | [0229-majority-element-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
