@@ -109,6 +109,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
