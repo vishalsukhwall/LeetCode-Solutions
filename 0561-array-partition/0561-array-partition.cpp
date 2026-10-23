@@ -5,8 +5,8 @@ public:
         int sum = 0;
 
         sort(nums.begin() , nums.end());
-        for(int i=0,j=1; i<n||j<n; i+=2,j+=2){
-            sum += min(nums[i] , nums[j]);
+        for(int i=0; i<n; i+=2){
+            sum += nums[i];
         }
         
         return sum;
