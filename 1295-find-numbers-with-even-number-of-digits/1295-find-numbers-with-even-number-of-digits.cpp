@@ -5,17 +5,16 @@ public:
         int count = 0;
 
         for(int i=0; i<n; i++){
-            string s = "";
+            int dig = 0;
             int num = nums[i];
 
             while(num > 0){
-                int dig = num % 10;
-                s += to_string(dig);
+                dig++;
 
                 num = num / 10;
             }
 
-            if(s.size() % 2 == 0){
+            if(dig % 2 == 0){
                 count++;
             }
         }
