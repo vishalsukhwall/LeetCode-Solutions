@@ -106,6 +106,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -149,6 +150,7 @@
 | [0704-binary-search](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0645-set-mismatch](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
