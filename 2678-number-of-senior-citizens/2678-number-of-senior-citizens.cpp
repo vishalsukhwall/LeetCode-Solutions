@@ -4,9 +4,13 @@ public:
         int n = s.size();
         int count = 0;
 
-        for(string val : s){
+        for(int i=0; i<n; i++){
+            string st = s[i];
 
-            int age = (val[11] - '0') * 10 + val[12] - '0';
+            int a = st[11] - '0';
+            int b = st[12] - '0';
+
+            int age = a*10 + b;
 
             if(age > 60){
                 count++;
