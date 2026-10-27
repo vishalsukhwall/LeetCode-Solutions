@@ -15,7 +15,7 @@ public:
         ListNode* temp = head;
 
         while(count < k){
-            if(temp == NULL){
+            if(temp == nullptr){
                 return head;
             }
             temp = temp->next;
@@ -27,12 +27,10 @@ public:
         count = 0 , temp = head;
         while(count < k){
             ListNode* next = temp->next;
-
             temp->next = preNode;
             preNode = temp;
             temp = next;
             count++;
-
         }
 
         return preNode;
