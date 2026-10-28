@@ -11,7 +11,9 @@ public:
         string start = s[0] , last = s[n-1];
         string res = "";
 
-        for(int i=0; i<n; i++){
+        int minlen = min(start.length() , last.length());
+
+        for(int i=0; i<minlen; i++){
             if(start[i] != last[i]){
                 break;
             }
