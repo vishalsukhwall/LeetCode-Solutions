@@ -86,6 +86,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -220,6 +221,7 @@
 | [0771-jewels-and-stones](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -305,6 +307,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -544,6 +547,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
