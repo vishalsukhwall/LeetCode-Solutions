@@ -3,19 +3,19 @@ public:
     int subarraySum(vector<int>& nums, int k) {
         int n = nums.size();
         unordered_map<int , int> mp;
-        int sum = 0;
-
-        int count = 0;
+        int count = 0 , num = 0;
         mp[0] = 1;
 
         for(int i=0; i<n; i++){
-            sum += nums[i];
+            num += nums[i];
 
-            int x = sum - k;
+            int x = num - k;
+
             if(mp.find(x) != mp.end()){
                 count += mp[x];
             }
-            mp[sum]++;
+
+            mp[num]++;
         }
 
         return count;
