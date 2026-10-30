@@ -5,7 +5,7 @@ public:
         int maxlen = 0 , l = 0;
         int countzero = 0;
 
-        for(int r = 0; r < n; r++){
+        for(int r = 0; r < n; ++r){
             if(nums[r] == 0){
                 countzero++;
             }
