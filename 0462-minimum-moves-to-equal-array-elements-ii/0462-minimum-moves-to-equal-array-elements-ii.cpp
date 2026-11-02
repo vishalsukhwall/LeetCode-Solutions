@@ -3,18 +3,13 @@ public:
     int minMoves2(vector<int>& nums) {
         int n = nums.size();
 
-        long long mincount = INT_MAX;
+        sort(nums.begin() , nums.end());
 
+        int count = 0 , mid = n/2;
         for(int i=0; i<n; i++){
-            long long count = 0;
-
-            for(int j=0; j<n; j++){
-                count = count + abs(nums[i] - nums[j]);
-            }
-
-            mincount = min(mincount , count);
+            count += abs(nums[mid] - nums[i]);
         }
 
-        return mincount;
+        return count;
     }
 };
