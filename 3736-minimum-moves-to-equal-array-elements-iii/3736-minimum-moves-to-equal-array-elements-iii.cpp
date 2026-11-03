@@ -9,7 +9,7 @@ public:
 
         int count = 0;
         for(int val : nums){
-            count += abs(maxval - val);
+            count += maxval - val;
         }
 
         return count;
