@@ -1,37 +1,23 @@
 class Solution {
 public:
-    int secondlarget(vector<int>& nums){
+    int secondHighest(string s) {
         int first = INT_MIN;
         int second = INT_MIN;
+        int num;
 
-        for(int val : nums){
-            if(first < val){
-                second = first;
-                first = val;
-            }
-            else if(second < val && val < first){
-                second = val;
+        for(int i=0; i<s.size(); i++){
+            if(s[i] >= '0' && s[i] <= '9'){
+                num = s[i] - '0';
+                if(first < num){
+                    second = first;
+                    first = num;
+                }
+            else if(second < num && num < first){
+                second = num;
+                }
             }
         }
 
         return second == INT_MIN ? -1 : second;
-    }
-    int secondHighest(string s) {
-        vector<int> nums;
-
-        string st = "1234567890";
-        int a = st.size();
-        unordered_map<char , int> mp;
-        for(int i=0; i<a; i++){
-            mp[st[i] - '0']++;
-        }
-
-        for(char val : s){
-            if(mp[val - '0'] != 0){
-                nums.push_back(val - '0');
-            }
-        }
-
-        return secondlarget(nums);
     }
 };
