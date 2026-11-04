@@ -115,6 +115,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2239-find-closest-number-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
@@ -301,6 +302,7 @@
 | [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -515,6 +517,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2678-number-of-senior-citizens](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
