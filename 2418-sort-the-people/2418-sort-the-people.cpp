@@ -15,11 +15,6 @@ public:
             ans[i] = mp[heights[i]];
         }
 
-        names.clear();
-        for(string val : ans){
-            names.push_back(val);
-        }
-        
-        return names;
+        return ans;
     }
 };
