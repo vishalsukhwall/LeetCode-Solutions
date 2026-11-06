@@ -14,7 +14,12 @@ public:
         for(int i=0; i<n; i++){
             ans[i] = mp[heights[i]];
         }
+
+        names.clear();
+        for(string val : ans){
+            names.push_back(val);
+        }
         
-        return ans;
+        return names;
     }
 };
