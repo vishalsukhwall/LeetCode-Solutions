@@ -102,6 +102,7 @@
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -204,6 +205,7 @@
 | [0289-game-of-life](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
