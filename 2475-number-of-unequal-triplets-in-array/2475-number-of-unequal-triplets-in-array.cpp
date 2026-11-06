@@ -2,18 +2,20 @@ class Solution {
 public:
     int unequalTriplets(vector<int>& nums) {
         int n = nums.size();
+        unordered_map<int , int> mp;
 
-        int count = 0;
-        for(int i=0; i<n; i++){
-            for(int j=i+1; j<n; j++){
-                for(int k=j+1; k<n; k++){
-                    if(nums[i] != nums[j] && nums[i] != nums[k] && nums[j] != nums[k]){
-                        count++;
-                    }
-                }
-            }
+        for(int val : nums){
+            mp[val]++;
         }
 
-        return count;
+        int lefttotal = 0 , currfreq , total = 0 , righttotal;
+        for(auto& val : mp){
+            currfreq = val.second;
+            righttotal = n - currfreq - lefttotal;
+            total += (lefttotal * currfreq * righttotal);
+            lefttotal += val.second;
+        }
+
+        return total;
     }
 };
