@@ -4,7 +4,7 @@ public:
         int n = s.length();
         string str(n , ' ');
 
-        for(int i=0; i<n; ++i){
+        for(int i=0; i<n; i++){
             str[indices[i]] = s[i];
         }
 
