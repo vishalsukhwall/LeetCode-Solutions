@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<string>> findMismatchedSegments(string s1, string s2) {
-         vector<vector<string>> ans;
+        std :: vector<vector<string>> ans;
 
          int i = 0 , n = s1.size();
          while(i < n){
