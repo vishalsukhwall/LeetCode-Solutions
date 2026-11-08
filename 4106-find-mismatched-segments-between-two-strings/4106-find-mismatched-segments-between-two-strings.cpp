@@ -1,27 +1,24 @@
 class Solution {
 public:
     vector<vector<string>> findMismatchedSegments(string s1, string s2) {
-        vector<vector<string>> ans;
+         vector<vector<string>> ans;
 
-        int n = s1.size();
-        int i = 0;
-        while(i < n){
-            if(s1[i] == s2[i]){
-                i++;
-                continue;
+         int i = 0 , n = s1.size();
+         while(i < n){
+            if(s1[i] != s2[i]){
+                int start = i;
+
+                while(i < n && s1[i] != s2[i]){
+                    i++;
+                }
+
+                ans.push_back({s1.substr(start , i - start) , s2.substr(start , i - start)});
             }
-
-            int l = i;
-            while(i < n && s1[i] != s2[i]){
+            else{
                 i++;
             }
+         }
 
-            string str1 = s1.substr(l , i - l);
-            string str2 = s2.substr(l , i - l);
-
-            ans.push_back({str1 , str2});
-        }
-       
-       return ans;
+         return ans;
     }
 };
