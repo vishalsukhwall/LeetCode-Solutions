@@ -1,24 +1,25 @@
+#include <vector>
+#include <string>
+
 class Solution {
 public:
-    vector<vector<string>> findMismatchedSegments(string s1, string s2) {
-        std :: vector<vector<string>> ans;
-
-         int i = 0 , n = s1.size();
-         while(i < n){
-            if(s1[i] != s2[i]){
+    std::vector<std::vector<std::string>> findMismatchedSegments(std::string s1, std::string s2) {
+        std::vector<std::vector<std::string>> result;
+        int n = s1.length();
+        int i = 0;
+        
+        while (i < n) {
+            if (s1[i] != s2[i]) {
                 int start = i;
-
-                while(i < n && s1[i] != s2[i]){
+                while (i < n && s1[i] != s2[i]) {
                     i++;
                 }
-
-                ans.push_back({s1.substr(start , i - start) , s2.substr(start , i - start)});
-            }
-            else{
+                result.push_back({s1.substr(start, i - start), s2.substr(start, i - start)});
+            } else {
                 i++;
             }
-         }
-
-         return ans;
+        }
+        
+        return result;
     }
 };
