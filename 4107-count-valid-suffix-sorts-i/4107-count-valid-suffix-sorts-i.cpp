@@ -15,18 +15,21 @@ public:
             }
         }
 
-        int maxIdx = 0;
-        while(maxIdx < n && nums[maxIdx] == target[maxIdx]){
-            maxIdx++;
-        }
-        maxIdx = min(n-1 , maxIdx);
+        int maxlen = 0 , i = 0;
+        while(i < n && nums[i] == target[i]){
+                i++;
+            }
+        maxlen = i;
+        maxlen = min(n-1 , maxlen);
 
-        int minIdx = n-1;
-        while(minIdx > 0 && target[minIdx-1] >= target[minIdx]){
-            minIdx--;
+        int minlen = 0;
+        i = n-1;
+        while(i > 0 && target[i-1] >= target[i]){
+            i--;
         }
+        minlen = i;
 
-        int bond = maxIdx - minIdx + 1;
+        int bond = (maxlen - minlen + 1);
 
         return max(0 , bond);
     }
