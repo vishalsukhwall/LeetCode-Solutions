@@ -1,21 +1,18 @@
 class Solution {
 public:
     int mostWordsFound(vector<string>& s) {
-        int n = s.size();
+        int maxlen = 0;
 
-        int maxlen =INT_MIN;
-        for(int i=0; i<n; i++){
+        for(auto &val : s){
             int count = 1;
 
-            for(int j=0; j<s[i].size(); j++){
-                if(s[i][j] == ' '){
+            for(auto &value : val){
+                if(value == ' '){
                     count++;
                 }
             }
 
             maxlen = max(maxlen , count);
-
-            
         }
 
         return maxlen;
