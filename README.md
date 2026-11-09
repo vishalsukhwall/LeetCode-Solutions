@@ -539,6 +539,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
