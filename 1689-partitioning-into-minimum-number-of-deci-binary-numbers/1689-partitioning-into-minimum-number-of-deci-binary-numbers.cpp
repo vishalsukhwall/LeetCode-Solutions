@@ -4,7 +4,7 @@ public:
         int maxval = 0;
 
         for(char val : n){
-            maxval = max(maxval , val - '0');
+            maxval = std::max(maxval , val - '0');
         }
 
         return maxval;
