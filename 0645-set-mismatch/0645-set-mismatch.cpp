@@ -3,21 +3,22 @@ public:
     vector<int> findErrorNums(vector<int>& nums) {
         int n = nums.size();
         unordered_map<int , int> mp;
-        int missing = 0 , dupl = 0;
+        int idx = 0 , dupl = 0;
 
-        for(int val : nums){
-            mp[val]++;
+        for(int i=0; i<n; i++){
+            mp[nums[i]]++;
         }
 
         for(int i=1; i<=n; i++){
             if(mp[i] == 0){
-                missing = i;
+                idx = i;
             }
 
             if(mp[i] == 2){
                 dupl = i;
             }
         }
-        return {dupl , missing};
+
+        return {dupl , idx};        
     }
 };
