@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         unordered_map<int , int> mp;
 
-        int l = 0 , maxlen = INT_MIN;
+        int l = 0, maxlen = INT_MIN;
         for(int r=0; r<n; r++){
             mp[nums[r]]++;
 
@@ -19,7 +19,7 @@ public:
 
             maxlen = max(maxlen , r-l+1);
         }
-
+        
         return maxlen;
     }
 };
