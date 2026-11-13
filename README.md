@@ -89,6 +89,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0665-non-decreasing-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0877-stone-game) |
