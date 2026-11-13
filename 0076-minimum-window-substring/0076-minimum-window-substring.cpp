@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool isvalid(vector<int> &arr1 , vector<int> &arr2){
+    bool isvalid(vector<int> &sarr , vector<int> &tarr){
         for(int i=0; i<128; i++){
-            if(arr2[i] < arr1[i]) return false;
+            if(sarr[i] < tarr[i]) return false;
         }
         return true;
     }
@@ -14,33 +14,30 @@ public:
             return "";
         }
 
-        vector<int> arr1(128 , 0);
+        vector<int> tarr(128 , 0);
         for(int i=0; i<t.size(); i++){
-            arr1[t[i]]++;
+            tarr[t[i]]++;
         }
 
-        vector<int> arr2(128 , 0);
-        string ans = "";
-        int minlen = INT_MAX , start = -1;
-        int l = 0;
+        vector<int> sarr(128 , 0);
+        int l = 0 , start = -1;
+        int minlen = INT_MAX;
 
         for(int r=0; r<n; r++){
-            arr2[s[r]]++;
+            sarr[s[r]]++;
 
-            while(l <= r && isvalid(arr1 , arr2)){
-                if(r-l+1 < minlen){
-                    minlen = r-l+1;
+            while(l <= r && isvalid(sarr , tarr)){
+                if(r - l + 1 < minlen){
+                    minlen = r - l + 1;
                     start = l;
                 }
-                arr2[s[l]]--;
+                sarr[s[l]]--;
                 l++;
             }
         }
 
         if(start == -1) return "";
-    
-        ans = s.substr(start , minlen);
 
-        return ans;
+        return s.substr(start , minlen);
     }
 };
