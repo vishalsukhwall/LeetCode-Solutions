@@ -4,16 +4,20 @@ public:
         int n = nums.size();
 
         int minsum = INT_MAX;
-        for(int i=0; i<n; i++){
+        for(int len = l; len <= r; len++){
             int sum = 0;
-            for(int j=i; j<n; j++){
-                sum += nums[j];
+            
+            for(int i=0; i<len; i++){
+                sum += nums[i];
+            }
 
-                int len = j-i+1;
+            if(sum > 0) minsum = min(minsum , sum);
 
-                if(len >= l && len <= r && sum > 0){
-                    minsum = min(minsum , sum);
-                }
+            for(int i=len; i<n; i++){
+                sum += nums[i];
+                sum -= nums[i-len];
+
+                if(sum > 0) minsum = min(minsum , sum);
             }
         }
 
