@@ -106,6 +106,7 @@
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -409,6 +410,7 @@
 | [0509-fibonacci-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -492,6 +494,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -716,6 +719,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
