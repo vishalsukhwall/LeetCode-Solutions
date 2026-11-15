@@ -2,25 +2,23 @@ class Solution {
 public:
     int numOfSubarrays(vector<int>& nums) {
         int n = nums.size();
-        long long even = 1;
-        long long odd = 0;
-        long long x = 1e9 + 7;
-        long long ans = 0;
+        int odd = 0 , even = 1;
+        int sum = 0;
+        int count = 0 , m = 1e9 + 7;
 
-        long long sum = 0;
-        for(int val : nums){
-            sum += val;
+        for(int i=0; i<n; i++){
+            sum += nums[i];
 
-            if(sum % 2 != 0){
-                ans = (ans + even) % x;
-                odd++;
+            if(sum % 2 == 0){
+                count = (count + odd) % m;
+                even++;
             }
             else{
-                ans = (ans + odd) % x;
-                even++;
+                count = (count + even) % m;
+                odd++;
             }
         }
 
-        return ans;
+        return count;
     }
 };
