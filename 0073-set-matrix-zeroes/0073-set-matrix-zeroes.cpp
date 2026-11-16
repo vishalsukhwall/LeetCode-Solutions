@@ -4,23 +4,26 @@ public:
         int row = mat.size();
         int col = mat[0].size();
 
-        vector<int> zrow(row , 0);
-        vector<int> zcol(col , 0);
-
-        for(int r=0; r<row; r++){
-            for(int c=0; c<col; c++){
-                if(mat[r][c] == 0){
-                    zrow[r] = 1;
-                    zcol[c] = 1;
-                } 
+        vector<int> zeroR(row , 0);
+        vector<int> zeroC(col , 0);
+        for(int i=0; i<row; i++){
+            for(int j=0; j<col; j++){
+                if(mat[i][j] == 0){
+                    zeroR[i] = 1;
+                    zeroC[j] = 1;
+                }
             }
         }
 
-        for(int r=0; r<row; r++){
-            for(int c=0; c<col; c++){
-                if(zrow[r] == 1 || zcol[c] == 1){
-                    mat[r][c] = 0;
-                } 
+        for(int i=0; i<zeroR.size(); i++){
+            for(int j=0; j<zeroC.size(); j++){
+                if(zeroR[i] == 1){
+                    mat[i][j] = 0;
+                }
+
+                if(zeroC[j] == 1){
+                    mat[i][j] = 0;
+                }
             }
         }
     }
