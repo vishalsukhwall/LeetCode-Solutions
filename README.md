@@ -444,6 +444,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -575,6 +576,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
