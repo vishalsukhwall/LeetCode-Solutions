@@ -7,7 +7,7 @@ public:
             return s;
         }
 
-        int count = 0 , a = 0;
+        int a = 0 , count = 0;
         string num = "";
 
         for(int i=0; i<n; i++){
@@ -16,8 +16,7 @@ public:
 
             if(count == k){
                 num += to_string(a);
-                count = 0;
-                a = 0;
+                count = 0 , a = 0;
             }
         }
 
