@@ -132,6 +132,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
@@ -225,6 +226,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -375,6 +377,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
