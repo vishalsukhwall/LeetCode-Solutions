@@ -92,6 +92,7 @@
 | [0665-non-decreasing-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0877-stone-game](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -218,6 +219,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -423,6 +425,7 @@
 | [0409-longest-palindrome](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
