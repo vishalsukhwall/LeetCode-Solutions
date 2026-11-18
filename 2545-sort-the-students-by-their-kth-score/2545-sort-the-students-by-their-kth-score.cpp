@@ -4,7 +4,7 @@ public:
         sort(score.begin() , score.end() , [k](auto &a , auto &b){
             return a[k] > b[k];
         });
-
+        
         return score;
     }
 };
