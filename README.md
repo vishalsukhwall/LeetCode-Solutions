@@ -589,6 +589,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
