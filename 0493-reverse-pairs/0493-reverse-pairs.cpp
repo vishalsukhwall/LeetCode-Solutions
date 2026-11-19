@@ -39,7 +39,7 @@ public:
                 right++;
             }
 
-            count += (right -( mid + 1));
+            count += (right - (mid + 1));
         }
 
         return count;
