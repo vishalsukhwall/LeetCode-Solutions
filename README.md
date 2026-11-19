@@ -78,6 +78,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -191,6 +192,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0400-nth-digit) |
+| [0493-reverse-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -210,6 +212,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -862,13 +865,27 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [3477-fruits-into-baskets-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [3477-fruits-into-baskets-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
