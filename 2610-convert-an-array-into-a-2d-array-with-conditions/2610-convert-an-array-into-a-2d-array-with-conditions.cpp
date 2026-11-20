@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> findMatrix(vector<int>& nums) {
-        int n = nums.size();
         vector<vector<int>> ans;
         unordered_map<int , int> mp;
 
@@ -9,21 +8,21 @@ public:
             mp[val]++;
         }
 
-        int maxi = 0;
+        int maxval = 0;
         for(auto& i : mp){
-            maxi = max(maxi , i.second);
+            maxval = max(maxval , i.second);
         }
 
-        for(int i=0; i<maxi; i++){
-            vector<int> arr;
-            
+        for(int i=0; i<maxval; i++){
+            vector<int> temp;
+
             for(auto& val : mp){
                 if(val.second > 0){
-                    arr.push_back(val.first);
+                    temp.push_back(val.first);
                     val.second--;
                 }
             }
-            ans.push_back(arr);
+            ans.push_back(temp);
         }
 
         return ans;
