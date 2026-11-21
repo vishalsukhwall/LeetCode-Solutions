@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& nums) {
-        int five = 0 , ten = 0 , fifty = 0 , twenty = 0;
+        int five = 0 , ten = 0 , twenty = 0;
 
         for(int val : nums){
             bool balance = false;
@@ -19,7 +19,6 @@ public:
                     if(five > 0){
                         five--;
                         ten++;
-                        // balance = true;
                     }
                     else{
                         return false;
@@ -31,12 +30,10 @@ public:
                         ten--;
                         five--;
                         twenty++;
-                        // balance = true;
                     }
                     else if(five >= 3){
                         five -= 3;
                         twenty++;
-                        // balance = true;
                     }
                     else{
                         return false;
