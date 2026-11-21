@@ -1,13 +1,13 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& nums) {
-        unordered_map<int , int> mp;
+        int five = 0 , ten = 0 , fifty = 0 , twenty = 0;
 
         for(int val : nums){
             bool balance = false;
 
             if(val == 5){
-                mp[val]++;
+                five++;
                 balance = true;
             }
 
@@ -16,9 +16,9 @@ public:
                 int a = val - 5;
 
                 if(a == 5){
-                    if(mp[5] > 0){
-                        mp[5]--;
-                        mp[10]++;
+                    if(five > 0){
+                        five--;
+                        ten++;
                         balance = true;
                     }
                     else{
@@ -27,15 +27,15 @@ public:
                 }
 
                 if(a == 15){
-                    if(mp[10] > 0 && mp[5] > 0){
-                        mp[10]--;
-                        mp[5]--;
-                        mp[20]++;
+                    if(ten > 0 && five > 0){
+                        ten--;
+                        five--;
+                        twenty++;
                         balance = true;
                     }
-                    else if(mp[5] >= 3){
-                        mp[5] -= 3;
-                        mp[20]++;
+                    else if(five >= 3){
+                        five -= 3;
+                        twenty++;
                         balance = true;
                     }
                     else{
