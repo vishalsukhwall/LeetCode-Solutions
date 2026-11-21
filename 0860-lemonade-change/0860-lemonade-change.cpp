@@ -4,15 +4,10 @@ public:
         int five = 0 , ten = 0 , twenty = 0;
 
         for(int val : nums){
-            bool balance = false;
-
             if(val == 5){
                 five++;
-                balance = true;
             }
-
-
-            if(!balance){
+            else{
                 int a = val - 5;
 
                 if(a == 5){
