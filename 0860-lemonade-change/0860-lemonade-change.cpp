@@ -19,7 +19,7 @@ public:
                     if(five > 0){
                         five--;
                         ten++;
-                        balance = true;
+                        // balance = true;
                     }
                     else{
                         return false;
@@ -31,12 +31,12 @@ public:
                         ten--;
                         five--;
                         twenty++;
-                        balance = true;
+                        // balance = true;
                     }
                     else if(five >= 3){
                         five -= 3;
                         twenty++;
-                        balance = true;
+                        // balance = true;
                     }
                     else{
                         return false;
