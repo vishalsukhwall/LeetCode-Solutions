@@ -9,7 +9,7 @@ public:
             if(nums[i+2] - nums[i] > k){
                 return {};
             }
-            ans.push_back({nums[i] , nums[i+1] , nums[i+2]});
+            ans.push_back({nums[i], nums[i+1], nums[i+2]});
         }
 
         return ans;
