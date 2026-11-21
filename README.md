@@ -94,6 +94,7 @@
 | [0704-binary-search](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0860-lemonade-change](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -442,6 +443,7 @@
 | [0561-array-partition](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0860-lemonade-change](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
