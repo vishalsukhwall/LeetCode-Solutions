@@ -13,7 +13,7 @@ public:
                 ans[i] = h--;
             }
         }
-        ans[n] = h;
+        ans[n] = l;
 
         return ans;
     }
