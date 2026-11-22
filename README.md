@@ -614,6 +614,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2418-sort-the-people) |
