@@ -136,6 +136,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2239-find-closest-number-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -239,6 +240,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -770,6 +772,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
