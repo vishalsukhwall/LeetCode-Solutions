@@ -123,6 +123,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
+| [1833-maximum-ice-cream-bars](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -397,6 +398,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1630-arithmetic-subarrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1630-arithmetic-subarrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -462,6 +464,7 @@
 | [1386-cinema-seat-allocation](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -715,6 +718,7 @@
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
