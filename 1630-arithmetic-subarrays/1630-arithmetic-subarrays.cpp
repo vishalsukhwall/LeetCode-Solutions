@@ -1,24 +1,42 @@
 class Solution {
 public:
-    vector<bool> checkArithmeticSubarrays(vector<int>& temp, vector<int>& l, vector<int>& r) {
-        int n = l.size() , i = 0;
-        vector<bool> ans(n , true);
+    bool check(vector<int>& nums , int st , int end){
+        int k = end - st + 1;
+        int minval = INT_MAX , maxval = INT_MIN;
+        unordered_set<int> s;
 
-        while(i < n){
-            int st = l[i] , end = r[i];
-            vector<int> nums = temp;
+        for(int i=st; i<=end; i++){
+            maxval = max(maxval , nums[i]);
+            minval = min(minval , nums[i]);
+            s.insert(nums[i]);
+        }
 
-            sort(nums.begin() + st , nums.begin() + end + 1);
-            int diff = nums[st+1] - nums[st];
+        if(minval == maxval) return true;
 
-            for(int j=st+1; j<=end; j++){
-                if(nums[j] - nums[j-1] != diff){
-                    ans[i] = false;
-                }
+        if((maxval - minval) % (k - 1) != 0) return false;
+
+        int diff = (maxval - minval) / (k - 1);
+
+        int curr = minval + diff;
+        while(curr < maxval){
+            if(s.find(curr) == s.end()){
+                return false;
             }
 
-            i++;
+            curr += diff;
         }
+
+        return true;
+    }
+
+    vector<bool> checkArithmeticSubarrays(vector<int>& nums, vector<int>& l, vector<int>& r) {
+        int n = l.size();
+        vector<bool> ans(n , true);
+
+        for(int i=0; i<n; i++){
+            ans[i] = check(nums , l[i] , r[i]);
+        }
+
         return ans;
     }
 };
