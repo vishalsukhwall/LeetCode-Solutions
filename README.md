@@ -151,6 +151,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -247,6 +248,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2965-find-missing-and-repeated-values](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -308,6 +310,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -553,6 +556,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
