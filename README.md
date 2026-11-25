@@ -174,6 +174,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -317,6 +318,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Backtracking
