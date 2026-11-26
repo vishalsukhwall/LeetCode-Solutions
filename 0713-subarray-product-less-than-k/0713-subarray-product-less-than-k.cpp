@@ -17,7 +17,7 @@ public:
                 count += r - l + 1;
             }
         }
-        
+
         return count;
     }
 };
