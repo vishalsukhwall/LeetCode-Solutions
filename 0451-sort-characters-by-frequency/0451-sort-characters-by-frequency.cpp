@@ -2,22 +2,19 @@ class Solution {
 public:
     string frequencySort(string s) {
         int n = s.size();
-        unordered_map<char , int> mp;
-        vector<string> bucket(n+1 , "");
+        vector<pair<int , char>> frq(128 , {0 , 0});
 
-        for(char val : s){
-            mp[val]++;
+        for(int i=0; i<n; i++){
+            frq[s[i]].first++;
+            frq[s[i]].second = s[i];
         }
 
-        for(auto it : mp){
-            char ch = it.first;
-            int frq = it.second;
-            bucket[frq].append(frq , ch);
-        }
-
+        sort(frq.rbegin() , frq.rend());
         string ans = "";
-        for(int i=n; i>=1; i--){
-            ans += bucket[i];
+        for(auto it : frq){
+            if(it.first == 0) break;
+
+            ans.append(it.first , it.second);
         }
 
         return ans;
