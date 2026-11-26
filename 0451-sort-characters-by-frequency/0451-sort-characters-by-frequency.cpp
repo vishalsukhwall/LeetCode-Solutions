@@ -1,17 +1,16 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        int n = s.size();
         vector<pair<int , char>> frq(128 , {0 , 0});
 
-        for(int i=0; i<n; i++){
-            frq[s[i]].first++;
-            frq[s[i]].second = s[i];
+        for(char val : s){
+            frq[val].first++;
+            frq[val].second = val;
         }
 
         sort(frq.rbegin() , frq.rend());
         string ans;
-        ans.reserve(n);
+        ans.reserve(s.size());
         for(auto it : frq){
             if(it.first == 0) break;
 
