@@ -12,12 +12,11 @@ public:
         for(auto it : mp){
             char ch = it.first;
             int frq = it.second;
-
             bucket[frq].append(frq , ch);
         }
 
         string ans = "";
-        for(int i=n; i>=0; i--){
+        for(int i=n; i>=1; i--){
             ans += bucket[i];
         }
 
