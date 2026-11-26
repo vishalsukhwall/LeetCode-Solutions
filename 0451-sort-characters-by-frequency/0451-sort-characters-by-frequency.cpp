@@ -10,7 +10,8 @@ public:
         }
 
         sort(frq.rbegin() , frq.rend());
-        string ans = "";
+        string ans;
+        ans.reserve(n);
         for(auto it : frq){
             if(it.first == 0) break;
 
