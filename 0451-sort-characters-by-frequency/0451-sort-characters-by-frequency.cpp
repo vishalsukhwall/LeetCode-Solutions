@@ -13,14 +13,12 @@ public:
             char ch = it.first;
             int frq = it.second;
 
-            bucket[frq].push_back(ch);
+            bucket[frq].append(frq , ch);
         }
 
         string ans = "";
         for(int i=n; i>=0; i--){
-            for(char ch : bucket[i]){
-                ans.append(i , ch);
-            }
+            ans += bucket[i];
         }
 
         return ans;
