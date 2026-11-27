@@ -104,6 +104,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -549,6 +550,7 @@
 | [0877-stone-game](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
