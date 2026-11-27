@@ -159,6 +159,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -318,6 +319,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -745,6 +747,7 @@
 | [1748-sum-of-unique-elements](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
