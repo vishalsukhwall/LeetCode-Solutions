@@ -5,34 +5,20 @@ public:
         int m = cap.size();
         int count = 0;
 
-        sort(cap.begin() , cap.end());
+        sort(cap.begin() , cap.end() , greater<>());
 
-        // int i = 0 , j = m-2;
-        // int capacity = cap[m-1];
-        // while(i < n && j >= 0){
-        //     if(nums[i] <= capacity){
-        //         capacity -= nums[i];
-        //         i++;
-        //     }
-        //     else{
-        //         count++;
-        //         capacity += cap[j];
-        //         capacity -= nums[i];
-        //         i++ , j--;
-        //     }
-        // }
+        int i = 0 , j = 0;
+        int capacity = 0;
 
-        int total = 0;
-        for(int val : nums){
-            total += val;
-        }
-
-        for(int i=m-1; i>=0; i--){
-            if(total <= 0){
-                break;
+        while(i < n && j < m){
+            while(j < m && capacity < nums[i]){
+                capacity += cap[j];
+                j++;
+                count++;
             }
-            total -= cap[i];
-            count++;
+            
+            capacity -= nums[i];
+            i++;
         }
 
         return count;
