@@ -137,6 +137,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -505,6 +506,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -563,6 +565,7 @@
 | [1512-number-of-good-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
@@ -771,6 +774,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Minimax
@@ -968,4 +972,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/vishalsukhwall/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
