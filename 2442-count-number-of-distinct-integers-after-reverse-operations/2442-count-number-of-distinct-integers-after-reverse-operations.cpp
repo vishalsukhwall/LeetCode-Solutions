@@ -24,11 +24,6 @@ public:
             }
         }
 
-        nums.clear();
-        for(int val : s){
-            nums.push_back(val);
-        }
-
-        return nums.size();
+       return s.size();
     }
 };
